@@ -1,0 +1,8 @@
+INIT #3
+
+
+PUSH 13
+PUSH 1
+ADD
+POP #1
+END
